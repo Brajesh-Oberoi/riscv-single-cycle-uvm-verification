@@ -3,7 +3,7 @@
 -incdir .
 -incdir ../single_cycle/dmem_vip
 -incdir ../single_cycle/imem_vip
--incdir /home/montblanc_ps.ivcs/P4/brajesh/MONTBLANC_A11.p4/default.WS7/units/verif/simulation/RISC-V-RTL-Design/single_cycle
+-incdir ../
 -top top
 ../single_cycle/imem_vip/imem_pkg.sv
 ../single_cycle/imem_vip/imem_if.sv
