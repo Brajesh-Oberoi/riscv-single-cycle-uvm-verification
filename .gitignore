@@ -429,9 +429,9 @@ FodyWeavers.xsd
 *.msp
 
 # Xcelium run files
-.key
-.shm
-.diag 
-.simvision
-.d
-.lnx86
+*.key
+*.shm
+*.diag 
+*.simvision
+*.d
+*.lnx86
