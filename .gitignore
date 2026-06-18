@@ -427,3 +427,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Xcelium run files
+.key
+.shm
+.diag 
+.simvision
+.d
+.lnx86
