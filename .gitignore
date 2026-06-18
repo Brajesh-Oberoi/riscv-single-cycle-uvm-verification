@@ -439,3 +439,5 @@ FodyWeavers.xsd
 #not required files 
 *.swo
 *.swp
+*.swm
+*.swn
