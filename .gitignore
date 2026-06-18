@@ -435,3 +435,7 @@ FodyWeavers.xsd
 *.simvision
 *.d
 *.lnx86
+
+#not required files 
+.swo
+.swp
