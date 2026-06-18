@@ -437,5 +437,5 @@ FodyWeavers.xsd
 *.lnx86
 
 #not required files 
-.swo
-.swp
+*.swo
+*.swp
